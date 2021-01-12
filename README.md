@@ -19,7 +19,7 @@ Download the latest version of AmongUsCature here: <a href="https://capture.auto
 2) Extract the zip file after the download
 3) Run AmongUsCapture
 
-***
+
 ## Extra
 
 Windows Defender may flag this executable as Trojan:Win32/Emali.A!cl, you can make an exception for this file depending on your version of Windows
